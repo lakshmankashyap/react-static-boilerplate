@@ -1,1 +1,2 @@
-# react-static-boilerplate
+# README #
+
